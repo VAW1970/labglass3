@@ -1,0 +1,5 @@
+{
+  "name": "LabGlass AI",
+  "description": "Uma interface React moderna para Detecção de Vidraria de Laboratório. Possui visualização de detecção de objetos, filtro de confiança e explicações de equipamentos via Gemini.",
+  "requestFramePermissions": []
+}
